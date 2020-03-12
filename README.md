@@ -7,7 +7,7 @@
  * 他能让你如调用其他类的私有方法
 
 ### 使用方法
-调用其他类方法的一个例子
+例子1：调用其他类方法
 ```java
 // 声明替换类，类中的方法将由替换类来执行
 @ACopy.CopyFrom("com.noahedu.acopy.test.Processor")
@@ -41,7 +41,7 @@ public class Main {
 }
 ```
   
-调用Android隐藏方法的例子.
+例子2：调用Android隐藏方法。
 该例子将会弹出toast文本`canStartActivityForResult: true`
 ```java
 // 声明替换类
