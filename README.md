@@ -1,4 +1,4 @@
-# ACopy 让你轻易调用本来无法调用的类方法
+# ACopy 让你轻松调用本来无法调用的类方法
 
 适用于Java、Android。本库中的例子为Android项目。
 
