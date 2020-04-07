@@ -1,6 +1,5 @@
-# ACopy 让你轻松调用原本无法调用的类方法
 
-适用于Java、Android。本库中的例子为Android项目。
+适用于Java、Android。本例子为Android项目。
 
  * 让你实现子库调用主项目中的类方法
  * 让你方便地调用Android的隐藏方法
@@ -81,6 +80,16 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
+
+### 项目地址：
+
+码云：[https://gitee.com/jeffwind/ACopy](https://gitee.com/jeffwind/ACopy)
+
+Github：[https://github.com/jeffwind/ACopy](https://github.com/jeffwind/ACopy)
+
+其实内部就一个名字叫Acopy的类，可以拷贝出来用。
+
+
 ----
 ### 作者
 
@@ -93,6 +102,9 @@ Jeff Zheng
 另外还有一个使用简单的Android网络框架，地址是   
 [https://github.com/jeffwind/NetCall](https://github.com/jeffwind/NetCall)  
 有兴趣可以看下噢。
+  
+  
+  
   
   
   
